@@ -1,0 +1,3 @@
+C:/Users/Leti/OneDrive/Desktop/Bus_tickets_management/cmake-build-debug/CMakeFiles/Bus_tickets_management.dir
+C:/Users/Leti/OneDrive/Desktop/Bus_tickets_management/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leti/OneDrive/Desktop/Bus_tickets_management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
